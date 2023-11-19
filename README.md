@@ -1,4 +1,4 @@
-##::::::: Health Calc :::::::::
+# ::::::: Health Calc :::::::::
 
 ## Descrição Do Projeto
 O projeto tem por objetivo calculac o Índice de Massa Corporal (IMC),
